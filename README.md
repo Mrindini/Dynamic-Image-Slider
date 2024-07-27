@@ -1,4 +1,4 @@
-**Check out the live demo here:** https://vaishnavibilla07.github.io/Dynamic-Image-Slider/
+**Check out the live demo here:** https://Mrindini.github.io/Dynamic-Image-Slider/
 
 # Dynamic Image Slider
 
