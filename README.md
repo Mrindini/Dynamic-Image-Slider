@@ -1,4 +1,3 @@
-**Check out the live demo here:** https://Mrindini.github.io/Dynamic-Image-Slider/
 
 # Dynamic Image Slider
 
